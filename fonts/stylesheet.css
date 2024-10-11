@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'Tabular';
+    src: url('Tabular-Bold.eot');
+    src: url('Tabular-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Tabular-Bold.woff2') format('woff2'),
+        url('Tabular-Bold.woff') format('woff'),
+        url('Tabular-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Neptune';
+    src: url('Neptune-Bold.eot');
+    src: url('Neptune-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Neptune-Bold.woff2') format('woff2'),
+        url('Neptune-Bold.woff') format('woff'),
+        url('Neptune-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Neptune';
+    src: url('Neptune-Medium.eot');
+    src: url('Neptune-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Neptune-Medium.woff2') format('woff2'),
+        url('Neptune-Medium.woff') format('woff'),
+        url('Neptune-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Neptune';
+    src: url('Neptune-Regular.eot');
+    src: url('Neptune-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Neptune-Regular.woff2') format('woff2'),
+        url('Neptune-Regular.woff') format('woff'),
+        url('Neptune-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
